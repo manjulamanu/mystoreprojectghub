@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="MyStoreProject">
+
+	<listeners>
+		<listener class-name="com.inetbanking.utilities.Reportingclass" />
+	</listeners>
+
+	<test name="Login test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+		<class name="com.inetbanking.testcases.TC_LoginTest_01"/>
+			<!--<class name="com.inetbanking.testcases.TC_LoginDataDrivenTest"/>  -->
+		<!--class name="com.inetbanking.testcases.TC_AddingCustomerClass"/> -->
+
+
+		</classes>
+
+	</test>
+
+</suite>

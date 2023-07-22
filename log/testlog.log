@@ -1,0 +1,246 @@
+2023-07-01 21:37:27,840 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+2023-07-01 21:37:27,912 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\manjula\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-07-01 21:37:35,997 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-01 21:37:36,270 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-01 21:37:36,714 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-01 21:37:37,756 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-01 21:37:37,784 - com.inetbanking.testcases.TC_LoginTest_01 -INFO -  tc failed 
+2023-07-01 21:40:51,676 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+2023-07-01 21:40:51,768 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\manjula\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-07-01 21:41:00,278 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-01 21:41:00,573 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-01 21:41:00,750 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-01 21:41:01,813 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-01 21:41:01,832 - com.inetbanking.testcases.TC_LoginTest_01 -INFO -  tc failed 
+2023-07-03 21:21:11,685 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+2023-07-03 21:21:11,762 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\manjula\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-07-03 21:21:40,987 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-03 21:21:45,278 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-03 21:21:45,613 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-03 21:21:47,212 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-03 21:21:47,416 - com.inetbanking.testcases.TC_LoginTest_01 -INFO -  tc failed 
+2023-07-03 21:27:04,869 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+2023-07-03 21:27:04,928 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\manjula\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-07-03 21:27:17,539 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-03 21:27:49,634 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+2023-07-03 21:27:49,698 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\manjula\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-07-03 21:27:56,941 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-03 21:29:27,714 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+2023-07-03 21:29:27,780 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\manjula\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-07-03 21:29:35,603 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-03 21:31:32,519 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+2023-07-03 21:31:32,578 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\manjula\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-07-03 21:31:40,911 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-03 21:32:07,767 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+2023-07-03 21:32:07,834 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\manjula\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-07-03 21:32:17,116 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-03 21:32:17,591 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-03 21:32:18,087 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-03 21:33:00,894 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+2023-07-03 21:33:00,954 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\manjula\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-07-03 21:33:08,373 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-03 21:33:09,022 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-03 21:33:09,235 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-03 21:33:10,498 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-03 21:33:10,520 - com.inetbanking.testcases.TC_LoginTest_01 -INFO -  tc failed 
+2023-07-03 21:34:20,158 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+2023-07-03 21:34:20,241 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\manjula\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-07-03 21:34:27,461 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-03 21:34:27,767 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-03 21:34:28,260 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-03 21:34:29,530 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-03 21:34:29,553 - com.inetbanking.testcases.TC_LoginTest_01 -INFO -  tc failed 
+2023-07-04 05:49:43,604 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Using chromedriver 114.0.5735.90 (resolved driver for Chrome 114)
+2023-07-04 05:49:43,766 - io.github.bonigarcia.wdm.WebDriverManager -INFO - Exporting webdriver.chrome.driver as C:\Users\manjula\.cache\selenium\chromedriver\win32\114.0.5735.90\chromedriver.exe
+2023-07-04 05:49:54,268 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-04 05:49:55,130 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-04 05:49:55,281 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-04 05:49:56,875 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-04 05:49:57,050 - com.inetbanking.testcases.TC_LoginTest_01 -INFO -  tc failed 
+2023-07-04 05:49:57,415 - org.asynchttpclient.netty.handler.WebSocketHandler -WARN - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:259)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-07-04 06:01:38,168 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-04 06:01:38,875 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-04 06:01:39,070 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-04 06:01:40,812 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-04 06:01:40,838 - com.inetbanking.testcases.TC_LoginTest_01 -INFO -  tc failed 
+2023-07-06 15:35:35,471 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-06 15:35:36,490 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-06 15:35:36,661 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-06 15:35:38,345 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-06 15:35:38,620 - com.inetbanking.testcases.TC_LoginTest_01 -INFO -  tc failed 
+2023-07-06 15:38:00,974 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-06 15:38:01,777 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-06 15:38:02,117 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-06 15:38:03,412 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-06 15:38:03,438 - com.inetbanking.testcases.TC_LoginTest_01 -INFO -  tc failed 
+2023-07-06 21:43:43,520 - org.asynchttpclient.netty.handler.WebSocketHandler -WARN - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:259)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:357)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2023-07-08 14:22:51,613 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-08 14:22:55,066 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-08 14:22:55,207 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-08 14:22:57,604 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-08 14:22:57,692 - com.inetbanking.testcases.TC_LoginTest_01 -INFO -  tc failed 
+2023-07-08 14:32:05,643 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-08 14:32:06,519 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-08 14:32:06,706 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-08 14:32:08,335 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-08 14:32:08,375 - com.inetbanking.testcases.TC_LoginTest_01 -INFO -  tc failed 
+2023-07-08 14:34:41,301 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-08 14:34:41,953 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-08 14:34:42,327 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-08 14:34:43,586 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-08 14:34:43,608 - com.inetbanking.testcases.TC_LoginTest_01 -INFO -  tc failed 
+2023-07-08 14:35:36,547 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-08 14:35:37,059 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-08 14:35:37,272 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-08 14:35:38,493 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-08 14:35:38,519 - com.inetbanking.testcases.TC_LoginTest_01 -INFO -  tc failed 
+2023-07-08 15:58:10,162 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-08 15:58:10,591 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-08 15:58:10,748 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-08 15:58:12,451 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-08 15:58:15,643 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - addcusomer link is opened
+2023-07-08 15:58:20,960 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - customer name  is added
+2023-07-08 15:58:21,227 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - customer address is added
+2023-07-08 15:58:21,424 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - city  is added
+2023-07-08 15:58:26,793 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - phone  is added
+2023-07-08 15:58:27,159 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - pino  is added
+2023-07-08 15:58:28,012 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - dob  is added
+2023-07-08 15:58:28,270 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - email  is added
+2023-07-08 16:01:28,006 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-08 16:01:28,813 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-08 16:01:29,006 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-08 16:01:31,074 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-08 16:01:34,250 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - addcusomer link is opened
+2023-07-08 16:01:38,963 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - customer name  is added
+2023-07-08 16:01:39,230 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - customer address is added
+2023-07-08 16:01:39,507 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - city  is added
+2023-07-08 16:01:39,785 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - phone  is added
+2023-07-08 16:01:39,996 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - pino  is added
+2023-07-08 16:01:40,375 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - dob  is added
+2023-07-08 16:01:40,627 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - email  is added
+2023-07-08 16:03:43,136 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-08 16:03:43,736 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-08 16:03:44,016 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-08 16:03:45,479 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-08 16:03:48,648 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - addcusomer link is opened
+2023-07-08 16:03:51,780 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - customer name  is added
+2023-07-08 16:03:52,039 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - customer address is added
+2023-07-08 16:03:52,479 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - city  is added
+2023-07-08 16:03:52,723 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - phone  is added
+2023-07-08 16:03:52,959 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - pino  is added
+2023-07-08 16:03:53,309 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - dob  is added
+2023-07-08 16:03:53,542 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - email  is added
+2023-07-08 16:06:34,830 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-08 16:06:35,472 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-08 16:06:35,723 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-08 16:06:37,005 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-08 16:06:40,144 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - addcusomer link is opened
+2023-07-08 16:06:44,528 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - customer name  is added
+2023-07-08 16:06:44,953 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - customer address is added
+2023-07-08 16:06:45,367 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - city  is added
+2023-07-08 16:06:45,614 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - phone  is added
+2023-07-08 16:06:45,815 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - pino  is added
+2023-07-08 16:06:46,179 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - dob  is added
+2023-07-08 16:06:46,397 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - email  is added
+2023-07-08 16:10:48,004 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-08 16:10:48,748 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-08 16:10:48,933 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-08 16:10:50,228 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-08 16:10:53,383 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - addcusomer link is opened
+2023-07-08 16:10:58,358 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - customer name  is added
+2023-07-08 16:10:58,629 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - customer address is added
+2023-07-08 16:10:58,999 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - city  is added
+2023-07-08 16:10:59,211 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - phone  is added
+2023-07-08 16:10:59,447 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - pino  is added
+2023-07-08 16:10:59,788 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - dob  is added
+2023-07-08 16:11:00,005 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - email  is added
+2023-07-08 17:17:03,774 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-08 17:17:05,120 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-08 17:17:05,309 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-08 17:17:06,923 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-08 17:17:10,191 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - addcusomer link is opened
+2023-07-08 17:17:15,292 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - customer name  is added
+2023-07-08 17:17:15,622 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - customer address is added
+2023-07-08 17:17:16,090 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - city  is added
+2023-07-08 17:17:16,323 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - phone  is added
+2023-07-08 17:17:16,574 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - pino  is added
+2023-07-08 17:17:16,939 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - dob  is added
+2023-07-08 17:17:17,204 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - email  is added
+2023-07-08 18:13:57,781 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-08 18:14:00,972 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-08 18:14:01,165 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-08 18:14:03,721 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-08 18:14:07,314 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - addcusomer link is opened
+2023-07-08 18:53:42,734 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-08 18:53:48,081 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-08 18:53:48,351 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-08 18:53:55,390 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-08 18:54:01,254 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - addcusomer link is opened
+2023-07-12 04:38:12,466 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-12 04:38:23,980 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-12 04:38:24,229 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-12 04:38:32,810 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-12 04:38:33,776 - com.inetbanking.testcases.TC_LoginTest_01 -INFO -  tc failed 
+2023-07-15 18:08:37,703 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-15 18:08:39,388 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-15 18:08:39,539 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-15 18:08:41,708 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-15 18:08:41,778 - com.inetbanking.testcases.TC_LoginTest_01 -INFO -  tc failed 
+2023-07-21 12:33:54,505 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-21 12:33:56,316 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-21 12:33:56,489 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-21 12:33:58,866 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-21 12:33:58,916 - com.inetbanking.testcases.TC_LoginTest_01 -INFO -  tc failed 
+2023-07-21 14:48:31,732 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-21 14:48:32,557 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-21 14:48:32,697 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-21 14:48:34,251 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-21 14:48:34,272 - com.inetbanking.testcases.TC_LoginTest_01 -INFO -  tc failed 
+2023-07-21 15:32:50,435 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-21 15:32:53,103 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-21 15:32:53,310 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-21 15:32:56,735 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-21 15:32:56,875 - com.inetbanking.testcases.TC_LoginTest_01 -INFO -  tc failed 
+2023-07-21 17:28:24,921 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-21 17:28:25,660 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-21 17:28:25,838 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-21 17:28:27,959 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-21 17:28:27,991 - com.inetbanking.testcases.TC_LoginTest_01 -INFO -  tc failed 
+2023-07-21 19:06:50,481 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-21 19:06:51,089 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-21 19:06:51,316 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-21 19:08:21,670 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - url is opened
+2023-07-21 19:08:22,538 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter username 
+2023-07-21 19:08:22,827 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - eneter password 
+2023-07-21 19:08:24,419 - com.inetbanking.testcases.TC_LoginTest_01 -INFO - submitted
+2023-07-21 19:08:24,445 - com.inetbanking.testcases.TC_LoginTest_01 -INFO -  tc failed 
